@@ -3,7 +3,8 @@
   This is a progressive web application that was built using Angular to brows and search for you favourite movie.
 
 ## Application URL
-  https://movie-browser-a7da1.web.app/home
+  * https://movie-browser-a7da1.web.app/home
+  * You can install the app on your desktop or your mobile app by clicking on install app on your browser.
 
 
 ## Used technologies
