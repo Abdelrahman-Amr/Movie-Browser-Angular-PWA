@@ -1,22 +1,31 @@
-# NgMovie
+# Movie Browser (Angular-PWA)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
+  This is a progressive web application that was built using Angular to brows and search for you favourite movie.
 
-## Development server
+## Application URL
+  https://movie-browser-a7da1.web.app/home
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Used technologies
+  * Angular
+  * PWA
+  * Bootswatch
+  * Firebase Hosting
+  * Omdb API
+ 
+## Installation
+  Run `npm install` to install the project's modules.
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+  Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+  
+## Run
+  Run `ng serve` to run the project on your localhost.
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+  Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
 ## Running end-to-end tests
 
