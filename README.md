@@ -1,6 +1,6 @@
 # Movie Browser (Angular-PWA)
 
-  This is a progressive web application that was built using Angular to brows and search for you favourite movie.
+  This is a progressive web application that was built using Angular to browse and search for you favourite movie.
 
 ## Application URL
   * https://movie-browser-a7da1.web.app/home
